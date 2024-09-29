@@ -1,0 +1,14 @@
+C:\Users\LOGICA\source\repos\exercHeranca\bin\Debug\net8.0\exercHeranca.exe
+C:\Users\LOGICA\source\repos\exercHeranca\bin\Debug\net8.0\exercHeranca.deps.json
+C:\Users\LOGICA\source\repos\exercHeranca\bin\Debug\net8.0\exercHeranca.runtimeconfig.json
+C:\Users\LOGICA\source\repos\exercHeranca\bin\Debug\net8.0\exercHeranca.dll
+C:\Users\LOGICA\source\repos\exercHeranca\bin\Debug\net8.0\exercHeranca.pdb
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\exercHeranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\exercHeranca.AssemblyInfoInputs.cache
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\exercHeranca.AssemblyInfo.cs
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\exercHeranca.csproj.CoreCompileInputs.cache
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\exercHeranca.dll
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\refint\exercHeranca.dll
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\exercHeranca.pdb
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\exercHeranca.genruntimeconfig.cache
+C:\Users\LOGICA\source\repos\exercHeranca\obj\Debug\net8.0\ref\exercHeranca.dll
